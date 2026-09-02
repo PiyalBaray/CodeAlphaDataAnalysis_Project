@@ -1,0 +1,18 @@
+Project 2: Spotify Music Data Analysis
+Objective: To analyze the Spotify-2000 dataset to uncover trends and relationships between various audio features of popular songs and their characteristics.
+
+Tasks Performed:
+
+Data Loading & Inspection: Loaded the Spotify-2000 (2).csv dataset and examined its information.
+
+Data Visualization: Created several plots to visualize different aspects of the data:
+
+plt.bar(): Analyzed the relationship between a song's Year and its Popularity, showing how the popularity of songs has changed over time.
+
+plt.barh(): Visualized the relationship between a song's Title and its Popularity.
+
+plt.scatter(): Explored the relationship between a song's Title and its Artist.
+
+plt.scatter(): Explored the relationship between a song's Artist and its Year.
+
+Key Finding: The analysis effectively demonstrated how the popularity of songs has fluctuated over the years and identified patterns within the dataset, such as which artists were popular in specific years.
